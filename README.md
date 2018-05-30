@@ -26,4 +26,3 @@ Need to sign in “https://sandbox.finnotech.ir/signin” and make account and a
 
 Make sure to set redirect path
 
-In Addition, you can use ” main” package for test and see the result in the console
