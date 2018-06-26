@@ -63,7 +63,6 @@
             padding: 8px;
         }
         .customers tr:nth-child(even){background-color: #f2f2f2;}
-        //.customers tr:hover {background-color: #ddd;}
        .hoverShow tr:hover {background-color: #ddd;}
         .customers th {
             padding-top: 12px;
